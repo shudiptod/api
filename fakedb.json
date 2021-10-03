@@ -1,5 +1,5 @@
 {
-    "Programming": [
+    "programming": [
         {
             "id": 0,
             "name": "Basic PHP",
@@ -82,7 +82,7 @@
             "price": 550
         }
     ],
-    "Music": [
+    "music": [
         {
             "id": 9,
             "name": "Singing",
@@ -120,7 +120,7 @@
             "price": 250
         }
     ],
-    "Drama": [
+    "drama": [
         {
             "id": 13,
             "name": "Basic Theatre",
